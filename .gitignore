@@ -1,0 +1,15 @@
+# WorkBuddy 项目数据（不提交）
+.dygcoding/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java 构建产物
+target/
+*.class
+
+# 系统文件
+Thumbs.db
+Desktop.ini
